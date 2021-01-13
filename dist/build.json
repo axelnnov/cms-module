@@ -1,8 +1,8 @@
 {
   "files": [
     "index.js",
+    "install.js",
     "module.json",
-    "uninstall.js",
-    "install.js"
+    "uninstall.js"
   ]
 }
