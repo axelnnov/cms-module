@@ -2,7 +2,7 @@
   "files": [
     "index.js",
     "install.js",
-    "module.json",
-    "uninstall.js"
+    "uninstall.js",
+    "module.json"
   ]
 }
